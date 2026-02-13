@@ -69,3 +69,6 @@ elif page == "Real-Time Capture":
     st.info("This page will handle real-time image/video capture in the future.")
     if st.button("Start Real-Time Capture"):
         st.warning("Real-time capture not implemented yet. Coming soon!")
+
+
+

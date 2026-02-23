@@ -1,0 +1,8 @@
+notebook
+pandas
+numpy
+streamlit
+ultralytics
+tempfile
+
+
